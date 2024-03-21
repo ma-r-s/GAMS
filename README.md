@@ -1,30 +1,36 @@
-# GAMS Simulation Project
+# GAMS Simulation Exercises Repository
 
 ## Introduction
-This project comprises a series of simulations designed to solve different problems using the General Algebraic Modeling System (GAMS). GAMS is a high-level modeling system for mathematical programming and optimization. These simulations encompass a range of scenarios, showcasing the versatility and power of GAMS in addressing complex issues through mathematical modeling.
+This repository contains a series of exercises for two laboratory sessions (Lab1 and Lab2) designed to provide practical experience with the General Algebraic Modeling System (GAMS). These exercises are aimed at simulating various mathematical optimization problems, ranging from basic to more complex scenarios. The purpose is to familiarize users with GAMS' capabilities in solving real-world problems through mathematical modeling.
 
-## Simulations Included
-- **ejercicio1.gms**: Addresses a specific problem set, demonstrating the application of linear programming.
-- **ejercicio2.gms**: Focuses on another distinct scenario, utilizing non-linear programming techniques.
-- **ejercicio3.gms**: Explores a complex optimization problem, highlighting the capabilities of GAMS in dealing with multi-variable equations.
-- **ejercicio4.gms**: Delivers solutions to a unique problem, showcasing advanced features of GAMS for more sophisticated modeling needs.
+## Lab1 Exercises
+Lab1 focuses on introducing the fundamentals of GAMS modeling, with exercises designed to explore linear and non-linear programming techniques:
+- **ejercicio1.gms**: Basic linear programming.
+- **ejercicio2.gms**: Introduction to non-linear programming.
+- **ejercicio3.gms**: Multi-variable optimization.
+
+## Lab2 Exercises
+Lab2 advances the complexity of the problems, providing exercises that require a deeper understanding of optimization methods and GAMS modeling:
+- **ejercicio1.gms**: Complex optimization scenarios.
+- **ejercicio2.gms**: Advanced non-linear programming techniques.
+- **ejercicio3.gms**: Detailed multi-variable optimization problems.
+- **ejercicio4.gms**: Sophisticated modeling exercises involving dynamic systems.
 
 ## Getting Started
-To run these simulations, you will need GAMS installed on your computer. Follow these steps:
-1. Install GAMS from the [official website](https://www.gams.com/).
-2. Clone or download this project to your local machine.
-3. Open each `.gms` file using the GAMS IDE.
-4. Execute the scripts to run the simulations.
+To work with these exercises, ensure you have GAMS installed on your computer. Follow the steps below to get started:
+1. Download and install GAMS from the [official GAMS website](https://www.gams.com/).
+2. Clone or download this repository to your local machine.
+3. Open the `.gms` files using the GAMS IDE and execute them to run the simulations.
 
 ## Prerequisites
-- GAMS software installed.
-- Basic understanding of algebraic modeling and mathematical optimization.
+- GAMS software installation.
+- Basic knowledge of algebraic modeling and optimization concepts.
 
 ## Usage
-These simulations can be used as templates or learning materials for understanding how to model different types of optimization problems in GAMS. They provide practical examples of how GAMS syntax and functions can be utilized to formulate and solve mathematical problems.
+These exercises serve as a practical guide to learning and applying various mathematical modeling and optimization techniques in GAMS. They are suitable for users ranging from beginners to those with intermediate skills in mathematical programming.
 
 ## Contributing
-Contributions to enhance the simulations or add more examples are welcome. Please ensure that any new simulations are well-documented and tested.
+Contributions to expand or refine these exercises are welcome. Please ensure to follow best practices for code documentation and testing.
 
 ## License
-This project is open-source and available under [MIT license](https://opensource.org/licenses/MIT).
+This repository is made available under the [MIT license](https://opensource.org/licenses/MIT).
